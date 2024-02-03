@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.jba.properties.hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for spring.jba.properties.hibernate.dialect."
+    },
+    {
+      "name": "spring.jba.properties.hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for spring.jba.properties.hibernate.dialect."
+    }
+  ] }
